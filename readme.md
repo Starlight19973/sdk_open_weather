@@ -7,8 +7,10 @@
 Для использования SDK, клонируйте этот репозиторий и установите необходимые зависимости, активируйте виртуальное окружение:
 
 ```bash
-git clone https://your-repository-url.git
-cd your-repository-directory
+git clone https://github.com/Starlight19973/sdk_open_weather.git
+cd test_kameloon
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 
 ```
