@@ -1,0 +1,23 @@
+{
+    "London": {
+        "weather": {
+            "main": "Haze",
+            "description": "haze"
+        },
+        "temperature": {
+            "temp": 6.06,
+            "feels_like": 2.84
+        },
+        "visibility": 5000,
+        "wind": {
+            "speed": 4.63
+        },
+        "datetime": 1709886522,
+        "sys": {
+            "sunrise": 1709879387,
+            "sunset": 1709920373
+        },
+        "timezone": 0,
+        "name": "London"
+    }
+}
